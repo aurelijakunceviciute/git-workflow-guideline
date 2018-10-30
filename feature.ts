@@ -1,0 +1,1 @@
+const sayFeatureName = () => "fancy feature";
