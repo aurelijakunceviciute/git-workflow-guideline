@@ -1,0 +1,1 @@
+const bugFix = () => 'No bugs today';
